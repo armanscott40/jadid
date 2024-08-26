@@ -32,6 +32,7 @@ public class Main {
         list3.add(1);
         list3.add(2);
         list3.add(4);
+        list3.add(5);
 
         // فراخوانی مجدد متد
         boolean result2 = ListComparer.areListsEqual(list1, list3);
